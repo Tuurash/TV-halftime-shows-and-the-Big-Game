@@ -5,3 +5,4 @@ Project implementing basic Pandas, Seoborn, Matplotlib
     How does the game affect television viewership?
     How have viewership, TV ratings, and ad cost evolved over time?
     Who are the most prolific musicians in terms of halftime show performances?
+![](notebook.ipynb)
